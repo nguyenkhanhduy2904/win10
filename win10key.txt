@@ -1,0 +1,8 @@
+Product Key:     DYNKB-BB6WV-C69W3-9FPJG-FVV3B
+Key Status:      Valid
+Edition Type:    Professional
+Description:     Win 10 RTM Professional Volume:MAK
+Edition ID:      [TH]X19-98805
+License Type:    Volume:MAK
+License Channel: Volume
+MAK Count:       13509
